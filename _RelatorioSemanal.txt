@@ -1,6 +1,7 @@
 _______ Relatório Semanal _______ 
 
-Período __/__/__ a __/__/__
+Período 17/10/18 a 24/10/18
+Realizado os ajustes no terrain, adicionado ao projeto o Assets SimpleTownCartoonAssets, agora tentando Build o projeto como teste para ver se roda em Android. Ainda havendo algumas dificuldades com o novo assets, mas são pequenos detalhes, o mais importatnte agora é conseguir Build e adicionar os dois intensificadores ao projeto.
 
 Período __/__/__ a __/__/__
 
